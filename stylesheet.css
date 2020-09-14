@@ -1,0 +1,33 @@
+body{
+  background-size: cover;                /* 全画面 */
+  background-attachment: fixed;          /* 固定 */
+  background-position: center center;    /* 縦横中央 */
+  width:400px;
+  margin-top:0;
+  margin-right:auto;
+  margin-left:auto;
+  align-items: center;
+  text-align: center;
+}
+
+header{
+  background-color: aquamarine;
+  padding-top:10px;
+  padding-bottom: 10px;
+}
+
+main{
+  background-color: aqua;
+  padding-top:32px;
+  padding-bottom: 32px;
+}
+
+img{
+  width:400px;
+}
+
+footer{
+  background-color: blueviolet;
+  padding-top:32px;
+  padding-bottom: 32px;
+}
