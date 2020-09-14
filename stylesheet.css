@@ -2,7 +2,7 @@ body{
   background-size: cover;                /* 全画面 */
   background-attachment: fixed;          /* 固定 */
   background-position: center center;    /* 縦横中央 */
-  width:400px;
+  background-color:	#FAF0E6;
   margin-top:0;
   margin-right:auto;
   margin-left:auto;
@@ -11,23 +11,25 @@ body{
 }
 
 header{
-  background-color: aquamarine;
+  background-color: #444444;
   padding-top:10px;
   padding-bottom: 10px;
+  height:150px;
 }
 
 main{
-  background-color: aqua;
+  /* background-color: aqua; */
   padding-top:32px;
   padding-bottom: 32px;
 }
 
 img{
-  width:400px;
+  height:80px;
+  width:120px;
 }
 
 footer{
-  background-color: blueviolet;
+  /* background-color: blueviolet; */
   padding-top:32px;
   padding-bottom: 32px;
 }
